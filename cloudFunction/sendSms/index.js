@@ -21,8 +21,8 @@ exports.main = async (event, context) => {
 	clientProfile.httpProfile = httpProfile;
 	let client = new smsClient(cred, "ap-guangzhou", clientProfile);
 	let req = new models.SendSmsRequest();
-	req.SmsSdkAppid = "1400394299";
-	req.Sign = "青团社招聘商户版";
+	req.SmsSdkAppid = "xxx";
+	req.Sign = "xxx";
 	req.ExtendCode = "";
 	req.SenderId = "";
 	req.SessionContext = "";
