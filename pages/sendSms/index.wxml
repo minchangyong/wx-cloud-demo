@@ -1,0 +1,2 @@
+<input type="number" placeholder="请输入手机号"  maxlength="11" bindinput="handleVal"/>
+<button bindtap="handleClick">发送短信</button>

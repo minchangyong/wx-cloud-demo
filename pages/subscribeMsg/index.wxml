@@ -1,0 +1,1 @@
+<button bindtap="handleClick">订阅消息</button>

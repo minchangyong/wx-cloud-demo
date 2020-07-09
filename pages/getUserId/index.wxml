@@ -1,0 +1,4 @@
+<button bindtap="getOpenid">点击获取基础信息</button>
+<view wx:if="{{openId}}">openid:{{openId}}</view>
+<view wx:if="{{appId}}">appId:{{appId}}</view>
+<view wx:if="{{unionid}}">unionid:{{unionid}}</view>

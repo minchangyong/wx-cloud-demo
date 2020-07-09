@@ -1,0 +1,9 @@
+input {
+  width: 90%;
+  height: 92rpx;
+  border: 2rpx solid #DDD;
+  border-radius: 16rpx;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+  margin: 20rpx auto;
+}

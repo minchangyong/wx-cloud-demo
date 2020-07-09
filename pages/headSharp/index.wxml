@@ -1,0 +1,1 @@
+<button bindtap="handleClick">头像裁切</button>

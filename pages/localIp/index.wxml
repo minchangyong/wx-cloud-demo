@@ -1,0 +1,3 @@
+<button bindtap="handleClick">云函数的公网IP</button>
+
+<view wx:if="{{localIp}}">云函数服务器的公网IP地址为：{{localIp}}</view>

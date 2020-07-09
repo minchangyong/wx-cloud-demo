@@ -1,0 +1,10 @@
+textarea {
+  width: 90%;
+  margin: 40rpx auto;
+  border: 2rpx solid #DDD;
+  border-radius: 8rpx;
+}
+
+button {
+  margin: 20rpx;
+}

@@ -1,0 +1,2 @@
+<button bindtap='handleChoose'>选择图片上传</button>
+ <image src="{{imgUrl}}" mode="widthFix" />

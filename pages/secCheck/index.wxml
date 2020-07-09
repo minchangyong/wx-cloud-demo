@@ -1,0 +1,7 @@
+<textarea placeholder="请输入您要检测的文本内容" bindinput="handleValue"></textarea>
+<button bindtap="handleClick1">文字内容安全检查</button>
+
+
+<button bindtap="upload">点击上传图片</button>
+<image src="{{imgUrl}}" mode="widthFix"  wx:if="{{imgUrl}}"/>
+<button bindtap="handleClick2">图片内容安全检查</button>

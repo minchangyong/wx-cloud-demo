@@ -1,0 +1,8 @@
+/* pages/createCode/index.wxss */
+
+image {
+  width: 500rpx;
+  height: 500rpx;
+  margin: 100rpx auto;
+  display: block;
+}

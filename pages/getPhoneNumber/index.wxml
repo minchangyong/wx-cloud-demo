@@ -1,0 +1,2 @@
+<button open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber">获取用户手机号</button>
+<view wx:if="{{phoneNumber}}">当前微信绑定手机号为：{{phoneNumber}}</view>

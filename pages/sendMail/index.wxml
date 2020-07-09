@@ -1,0 +1,4 @@
+<input type="text" placeholder="请输入收件人邮件地址" bindinput="handleToAddress"/>
+<input type="text" placeholder="请输入邮件主题" bindinput="handleSubject"/>
+<textarea placeholder="请输入邮件内容" auto-height bindinput="handleTextarea" />
+<button bindtap="handleClick">发送邮件</button>

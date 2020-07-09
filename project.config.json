@@ -1,0 +1,149 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"enhance": false,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"compileHotReLoad": false,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"useIsolateContext": true,
+		"useCompilerModule": true,
+		"userConfirmedUseCompilerModuleSwitch": false
+	},
+	"cloudfunctionRoot": "cloudFunction/",
+	"compileType": "miniprogram",
+	"libVersion": "2.11.3",
+	"appid": "wx71ff0ba1e3426010",
+	"projectname": "%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%BC%80%E5%8F%91%E6%8B%93%E8%8D%92",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "上传图片",
+					"pathName": "pages/upload/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "生成小程序码",
+					"pathName": "pages/createCode/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "微信运动",
+					"pathName": "pages/weRunData/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "获取用户绑定手机号",
+					"pathName": "pages/getPhoneNumber/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "微信支付",
+					"pathName": "pages/wxPayment/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "发送邮件",
+					"pathName": "pages/sendMail/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "头像裁切",
+					"pathName": "pages/headSharp/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "文案图片安全识别",
+					"pathName": "pages/secCheck/Index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "订阅消息",
+					"pathName": "pages/subscribeMsg/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "发送短信",
+					"pathName": "pages/sendSms/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 10,
+					"name": "获取本机IP地址",
+					"pathName": "pages/localIp/index",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}

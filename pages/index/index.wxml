@@ -1,0 +1,4 @@
+<button bindtap="skipToAuth">点我授权</button>
+<block wx:for="{{demoList}}" wx:key="*this">
+	<navigator url="{{item.url}}">{{item.name}}</navigator>
+</block>

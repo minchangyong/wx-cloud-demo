@@ -1,0 +1,6 @@
+<button bindtap="handleClick">获取微信运动步数</button>
+<view class="text" wx:if="{{todayStep}}">今天的微信步数是：{{todayStep}}</view>
+<view class="box" wx:for="{{monthStep}}" wx:key="*this">
+  <view class="">日期：{{item.date}}</view>
+  <view class="">步数：{{item.step}}</view>
+</view>

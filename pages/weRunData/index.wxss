@@ -1,0 +1,12 @@
+.text {
+  width: 100%;
+  padding: 32rpx;
+  box-sizing: border-box;
+}
+
+.box {
+  width: 80%;
+  border: 1rpx solid #DDD;
+  margin: 0 auto;
+  padding: 12rpx 32rpx;
+}

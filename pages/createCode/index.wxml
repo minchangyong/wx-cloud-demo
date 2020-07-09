@@ -1,0 +1,2 @@
+<button bindtap="handleClick">生成当前小程序码</button>
+<image wx:if="{{wxcode}}" src="{{wxcode}}" mode="widthFix"/>

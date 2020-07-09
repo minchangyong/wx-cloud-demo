@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/upload/index",
+    "pages/createCode/index",
+    "pages/weRunData/index",
+    "pages/getPhoneNumber/index",
+    "pages/wxPayment/index",
+    "pages/sendMail/index",
+    "pages/headSharp/index",
+    "pages/secCheck/index",
+    "pages/subscribeMsg/index",
+    "pages/getUserId/index",
+    "pages/sendSms/index",
+    "pages/localIp/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "微信小程序云开发拓荒",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

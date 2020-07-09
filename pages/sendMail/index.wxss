@@ -1,0 +1,60 @@
+input {
+  width: 90%;
+  margin: 20rpx auto;
+  border: 2rpx solid #DDD;
+  border-radius: 16rpx;
+  height: 88rpx;
+  padding: 0 32rpx;
+  box-sizing: border-box;
+}
+
+textarea {
+  width: 80%;
+  margin: 20rpx auto;
+  border: 2rpx solid #DDD;
+  border-radius: 16rpx;
+  padding: 32rpx;
+}
+
+.ql-container {
+  box-sizing: border-box;
+  width: 90%;
+  height: 500rpx;
+  font-size: 32rpx;
+  overflow: auto;
+  padding: 32rpx;
+  border: 1px solid #DDD;
+  margin: 0 auto 100rpx;
+  border-radius: 16rpx;
+}
+
+.ql-active {
+  color: #22C704;
+}
+
+.iconfont {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.toolbar {
+  box-sizing: border-box;
+  padding: 0 5%;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  right: 100%;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #ECECEC;
+  border-left: none;
+  border-right: none;
+  background: #FFF;
+}
+

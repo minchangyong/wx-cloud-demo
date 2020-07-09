@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+navigator {
+  width: calc(100% - 64rpx);
+  height: 92rpx;
+  align-items: center;
+  margin: 50rpx auto;
+  font: 32rpx;
+  color: #FFF;
+  justify-content: center;
+  display: flex;
+  border-radius: 16rpx;
+  background: #00cc88;
+}

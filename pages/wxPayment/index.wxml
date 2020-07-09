@@ -1,0 +1,2 @@
+<input type="digit" placeholder="请输入要支付的金额, 单位元" bindinput="handleVal" maxlength="8"/>
+<button bindtap="handleClick">微信支付</button>
